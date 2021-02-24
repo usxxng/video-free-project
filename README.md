@@ -6,10 +6,15 @@
 자유 주제 최종 프로젝트로 대중화된 애플리케이션 스노우(SNOW) 플랫폼<br>
 얼굴 인식 스티커 코드 구현<br>
  
-![img1](./reference_img.jpg)
+![img1](./image/reference_img.jpg)
 
 <br>
 
 ## 구동 영상
-<iframe width="640" height="360" src="./test_video.MOV" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+![Watch the video](./test_video.mov)
  
+
+ <br><br><br>
+ image ⓒcopyright
+<br>
+img1(http://app.chosun.com/site/data/html_dir/2016/08/05/2016080502379.html)
