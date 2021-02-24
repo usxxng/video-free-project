@@ -10,8 +10,13 @@
 
 <br>
 
-## 구동 영상
-![Watch the video](./test_video.mov)
+## 구동 영상 스크린샷
+[\[영상 보기\]](./test_video.mov)
+![img2](./image/scr.PNG)
+![img3](./image/scr2.PNG)
+![img4](./image/scr3.PNG)
+![img5](./image/scr4.PNG)
+
  
 
  <br><br><br>
