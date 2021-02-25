@@ -10,6 +10,10 @@
 
 <br>
 
+## 코드 구현
+- haarcascade Face Detector를 이용한 얼굴 인식
+- OpenCV 라이브러리 활용
+
 ## 구동 영상 스크린샷
 [\[영상 보기\]](./test_video.mov)
 ![img2](./image/scr.PNG)
